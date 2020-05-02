@@ -1,0 +1,3 @@
+/home/diego/POO2/lab/pooii-tarea-2-entrega-01-05-Dio12334/build/CMakeFiles/rebuild_cache.dir
+/home/diego/POO2/lab/pooii-tarea-2-entrega-01-05-Dio12334/build/CMakeFiles/tarea_3.dir
+/home/diego/POO2/lab/pooii-tarea-2-entrega-01-05-Dio12334/build/CMakeFiles/edit_cache.dir
